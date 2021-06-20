@@ -5,11 +5,6 @@ Balancing a dynamic public bike-sharing system by developing multi-agent systems
 
 As a way to verify the implemented system, an Interface Agent was created whose function is to demonstrate data about the system and the simulation in real time.
 
-
-### Use of IFTTT:
-Connection of values received from Adafruit with IFTTT and with an email created to receive notifications.
-Creation of triggers that correspond to sending a notification to weathersenseiata@gmail.com whenever a trigger is triggered.
-
 ![Interface](https://github.com/SusanaMarques/Multi-Agent-Bike-Sharing-System/blob/main/images/interface.png)
 
 ![Interface1](https://github.com/SusanaMarques/Multi-Agent-Bike-Sharing-System/blob/main/images/interface1.png)
