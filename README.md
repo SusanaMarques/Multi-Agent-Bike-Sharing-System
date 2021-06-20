@@ -7,6 +7,6 @@ As a way to verify the implemented system, an Interface Agent was created whose 
 
 ![Interface](https://github.com/SusanaMarques/Multi-Agent-Bike-Sharing-System/blob/main/images/interface.png)
 
-As we can see, the results obtained were balanced in a dynamic system.
+As we can see, the results obtained were balanced in a dynamic system for a random period of time.
 
 ### **Learn more about the project development [here](https://github.com/SusanaMarques/Multi-Agent-Bike-Sharing-System/blob/main/Bike%20Sharing%20System.pdf)**
