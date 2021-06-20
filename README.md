@@ -1,5 +1,7 @@
 # Multi-Agent-Bike-Sharing-System
 Balancing a dynamic public bike-sharing system by developing multi-agent systems with JADE and Agent UML
+### **Learn more about the project development [here](https://github.com/SusanaMarques/Multi-Agent-Bike-Sharing-System/blob/main/Bike%20Sharing%20System.pdf)**
+
 
 ### Interface Agent
 
