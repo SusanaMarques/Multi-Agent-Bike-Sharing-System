@@ -7,6 +7,9 @@
 - Agents
 - Multi-Agent Systems
 - Communication between Agents 
+- Comunication Protocols
+- UML
+- Jade
 
 ---
 ### Interface Agent
