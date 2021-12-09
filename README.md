@@ -1,6 +1,14 @@
 # Multi-Agent-Bike-Sharing-System
-Balancing a dynamic public bike-sharing system by developing multi-agent systems with JADE and Agent UML
 
+### Balancing a dynamic public bike-sharing system by developing multi-agent systems with JADE and Agent UML
+
+###
+
+- Agents
+- Multi-Agent Systems
+- Communication between Agents 
+
+---
 ### Interface Agent
 
 As a way to verify the implemented system, an Interface Agent was created whose function is to demonstrate data about the system and the simulation in real time.
